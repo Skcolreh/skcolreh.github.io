@@ -1,0 +1,3 @@
+# skcolreh.github.io
+skcolreh.github.io
+很久以前就想搞个，一直拖着没做，最近几个月都让人怀疑人生，想做点想做的事，就从搭个简单的博客开始了……
